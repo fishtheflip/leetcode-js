@@ -11,6 +11,7 @@
 // Output: true
 // Explanation: The root-to-leaf path with the target sum is shown.
 
+//not solved today :(
 var hasPathSum = function(root, targetSum) {
     
 };
